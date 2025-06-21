@@ -9,7 +9,7 @@
 
 I’m currently focused on full-stack web development and problem solving with a strong foundation in algorithms and system design.
 
-- 🚀 Interning at **[Global Eye Intelligence](https://globaleyeintelligence.com/)**, building a feature-rich publication ecosystem using Next.js, tRPC, and Redis
+- 🚀 Internship experience of 2 months as a developer intern where I build a feature-rich publication ecosystem using Next.js, tRPC, and Redis
 - 🛠️ Interested in DevOps, Web Security, and AI-integrated applications
 - 🔍 Exploring LLMs, vector search (FAISS), and prompt engineering for document understanding and Q&A systems
 - 🌱 Always learning and adapting to new technologies to stay ahead in the evolving tech world
