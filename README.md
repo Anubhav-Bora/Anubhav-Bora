@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhav Bora</h1>
-<h3 align="center">🚀 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🧠 Problem Solver</h3>
+
+<h3 align="center">
+🚀 Software Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI & Backend Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-bora-349b1027a/">
@@ -8,104 +11,180 @@
   <a href="mailto:anubhavbora40@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://port-folio-7nzljrlvd-anubhav-boras-projects.vercel.app/">
+  <a href="https://boraanubhav.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://medium.com/@anubhavbora40">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium" />
+  </a>
+  <a href="https://github.com/Anubhav-Bora">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Interested in **software development**
-- 🔐 Interested in **cybersecurity & web protection**
-- 📊 Practicing **DSA & competitive programming**
-- ⚙️ Building **real-world tools using backend + AI + automation**
-- 🌱 Currently learning **system design & backend development**
-- 🎯 Working towards top tech opportunities
+
+- 💻 Full-stack software developer interested in building scalable and real-world applications
+- 🔐 Cybersecurity enthusiast focused on secure software development and vulnerability assessment
+- 🤖 Interested in **AI, LLMs, RAG, LangChain, and LangGraph**
+- ⚙️ Experienced in building **real-time, backend, and AI-powered applications**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌱 Currently exploring **system design, backend architecture, and application security**
+- 🚀 Passionate about building, breaking, learning, and improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+### 💡 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Development  
+### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+### ⚙️ Backend
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-## 🚀 Projects
+### 🗄️ Databases
 
-### 🔐 WebShield  
-> Cybersecurity project focused on improving web safety and detecting vulnerabilities  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- ⚙️ Tech: JavaScript, Node.js  
-- 🎯 Focus: Security and protection mechanisms  
-- 🔗 https://github.com/Anubhav-Bora/WebShield  
+### 🤖 AI
 
----
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6C3483?style=for-the-badge)
 
-### ⚙️ OpsTrack  
-> Workflow and operations tracking system  
+### 🔐 Cybersecurity
 
-- ⚙️ Tech: MERN Stack  
-- 🎯 Focus: Task management and monitoring  
-- 🔗 https://github.com/Anubhav-Bora/OpsTrack  
-
----
-
-### 🧠 News-Agent  
-> Automated agent for fetching and processing news  
-
-- ⚙️ Tech: APIs, Automation  
-- 🎯 Focus: News aggregation and delivery  
-- 🔗 https://github.com/Anubhav-Bora/News-Agent  
-
----
-
-### 🎬 Subtitle Generator  
-> Tool for generating subtitles from audio/video  
-
-- ⚙️ Tech: Python, AI APIs  
-- 🎯 Focus: Speech-to-text automation  
-- 🔗 https://github.com/Anubhav-Bora/Subtitle-Generator  
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-### 🌐 Portfolio  
-> Personal portfolio website  
+## 🚀 Featured Projects
 
-- ⚙️ Tech: React, HTML, CSS  
-- 🎯 Focus: Project showcase  
-- 🔗 https://github.com/Anubhav-Bora/PortFolio  
+### 🌐 University Website & CMS
 
----
+> Contributed to the official Rashtriya Raksha University website using React.js and Next.js.
 
-### 📊 DSA  
-> Data Structures and Algorithms practice  
-
-- 🧩 Covers: Arrays, Trees, Graphs, Patterns  
-- 🎯 Focus: Interview preparation  
-- 🔗 https://github.com/Anubhav-Bora/DSA  
+- ⚙️ **Tech:** React.js, Next.js, CMS, APIs, Authentication
+- 🎯 **Focus:** Web application architecture and secure development
+- 🔗 https://rru.ac.in/
 
 ---
 
-### 🏆 Codeforces  
-> Competitive programming solutions  
+### 🤖 Live AI Debate Arena
 
-- ⚡ Contest problems and approaches  
-- 🎯 Focus: Problem solving and consistency  
-- 🔗 https://github.com/Anubhav-Bora/Codeforces  
+> Real-time AI-powered debate platform with automated scoring, speech recognition, interactive video, and AI analysis.
+
+- ⚙️ **Tech:** React, Node.js, WebSockets, Speech Recognition, AI
+- 🎯 **Focus:** Real-time communication, AI analysis, chat, leaderboards, and analytics
+- 🔗 https://github.com/Anubhav-Bora/Live_Debate
+- 🌐 https://live-debate-ai.onrender.com/
+
+---
+
+### 🔐 Blockchain Tourist Safety System
+
+> Tourist safety platform using blockchain technology for tamper-resistant communication and data integrity.
+
+- ⚙️ **Tech:** Ethereum, Smart Contracts, Mobile App, Admin Dashboard
+- 🎯 **Focus:** Security, data integrity, and decentralized communication
+- 🔗 https://github.com/Neuro-Fox
+
+---
+
+### 🧠 News Agent
+
+> AI-powered news aggregation platform for personalized news analysis and information processing.
+
+- ⚙️ **Tech:** Next.js, LangChain, Google Generative AI, Supabase
+- 🎯 **Focus:** AI agents, news aggregation, and personalized analysis
+- 🔗 https://github.com/Anubhav-Bora/News-Agent
+- 🌐 https://news-agent-snowy-eight.vercel.app/
+
+---
+
+### ⚙️ OpsTrack
+
+> Full-stack task management platform for teams to organize work, assign tasks, manage dependencies, and approvals.
+
+- ⚙️ **Tech:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL
+- 🎯 **Focus:** Role-based access, workflows, dependencies, and team collaboration
+- 🔗 https://github.com/Anubhav-Bora/OpsTrack
+- 🌐 https://ops-frontend-amber.vercel.app/login
+
+---
+
+### 🎬 Subtitle Generator
+
+> Tool for generating subtitles from audio and video using speech-to-text technologies.
+
+- ⚙️ **Tech:** Python, AI APIs
+- 🎯 **Focus:** Speech recognition and automation
+- 🔗 https://github.com/Anubhav-Bora/Subtitle-Generator
+
+---
+
+## 🧩 Problem Solving
+
+### 📊 DSA
+
+> Data Structures and Algorithms practice covering common interview and competitive programming problems.
+
+- 🧩 **Topics:** Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Binary Search, DP
+- 🎯 **Focus:** Problem solving and technical interview preparation
+- 🔗 https://github.com/Anubhav-Bora/DSA
+
+### 🏆 Codeforces
+
+> Competitive programming solutions and approaches.
+
+- ⚡ Contest problems and algorithmic solutions
+- 🎯 **Focus:** Problem solving and consistency
+- 🔗 https://github.com/Anubhav-Bora/Codeforces
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 10 among 300+ participants** in CTF Heaven Cyber Security Competition
+- 🎓 **PwC Launchpad Certifications** — Generative AI, Modern Data Systems, PowerShell, Cyber, Risk & Management, Soft Skills
+
+---
+
+## 📚 Currently Learning
+
+- 🏗️ System Design
+- ⚙️ Backend Architecture
+- 🔐 Application Security
+- 🤖 Generative AI & LLM Applications
+- 🧠 Data Structures & Algorithms
 
 ---
 
@@ -119,19 +198,27 @@
 ---
 
 ## 🌟 Highlights
-- 🔥 Real-world projects  
-- 💡 Mix of development, problem solving, and security  
-- 📈 Consistent learning approach  
+
+- 🚀 Full-stack software development
+- 🔐 Cybersecurity & secure software development
+- 🤖 AI-powered applications
+- ⚡ Real-time systems
+- 🧠 Problem solving & DSA
+- 🛠️ Building real-world projects
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/anubhav-bora-349b1027a/  
-- 🌐 Portfolio: https://port-folio-7nzljrlvd-anubhav-boras-projects.vercel.app/  
-- 📧 Email: anubhavbora40@gmail.com  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/anubhav-bora-349b1027a/
+- 🌐 Portfolio: https://boraanubhav.vercel.app/
+- ✍️ Medium: https://medium.com/@anubhavbora40
+- 📧 Email: anubhavbora40@gmail.com
+- 💻 GitHub: https://github.com/Anubhav-Bora
 
 ---
 
 ## ⚡ Philosophy
-```bash
+
+```text
 Build → Break → Learn → Repeat
